@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+gspread
+oauth2client
+pandas
+Pillow
+pytesseract
+streamlit-drawable-canvas
